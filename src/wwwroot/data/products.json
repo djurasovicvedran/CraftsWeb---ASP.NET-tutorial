@@ -18,7 +18,11 @@
     "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
     "Title": "A beautiful switch-on book light",
     "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
-    "Ratings": null
+    "Ratings": [
+      4,
+      3,
+      2
+    ]
   },
   {
     "Id": "jenlooper-lightshow",
@@ -45,7 +49,11 @@
     "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
     "Title": "Bubblesort Visualization",
     "Description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet\u0027s distance from the sun",
-    "Ratings": null
+    "Ratings": [
+      5,
+      3,
+      3
+    ]
   },
   {
     "Id": "sailorhg-corsage",
